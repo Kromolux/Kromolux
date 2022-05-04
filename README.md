@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 42 School Projects:
+<!--
 [![rkaufman's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/project/2571150)](https://github.com/JaeSeoKim/badge42)
 [![rkaufman's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/project/2558175)](https://github.com/JaeSeoKim/badge42)
 [![rkaufman's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/project/2542145)](https://github.com/JaeSeoKim/badge42)
@@ -29,3 +30,4 @@ Here are some ideas to get you started:
 [![rkaufman's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/project/2451679)](https://github.com/JaeSeoKim/badge42)
 [![rkaufman's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/project/2448057)](https://github.com/JaeSeoKim/badge42)
 [![rkaufman's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/project/2448057)](https://github.com/JaeSeoKim/badge42)
+-->
