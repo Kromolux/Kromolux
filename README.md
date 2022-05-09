@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+At the moment I am studying Software Engineering for my carrer change in the 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
+
 ## 42cursus Progress
 
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
