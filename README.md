@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<br>
 ## 42cursus Progress
+
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42-libft)                 | ✅     |   | 11  | cub3d(../../../42_cub3D)         | ✅     |   | 22  | [NetPractice](../../../42NetPractice)                    | ✅      |
