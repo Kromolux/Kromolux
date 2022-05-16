@@ -17,20 +17,38 @@ At the moment I am studying Software Engineering for my career change in the �
 
 ## 42cursus Progress
 
-| No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
-| :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../../../42_Libft)                 | ✅     |   | 11  | [cub3d](../../../42_cub3D) | ✅     |   | 22  | [NetPractice](../../../42_NetPractice)                    | ✅      |
-| 2   | Born2beroot                                | ✅     |   | 12  | miniRT        | 🔒     |   | 23  | ft_containers                  | 🔒      |
-| 3   | [ft_printf](../../../42_ft_printf)         | ✅     |   | 13  | CPP Module 00 | 📝     |   | 24  | ft_irc                         | 🔒      |
-| 4   | [get_next_line](../../../42_get_next_line) | ✅     |   | 14  | CPP Module 01 | 🔒     |   | 25  | webserv                        | 🔒      |
-| 5   | [FdF](../../../42_fdf)                     | ✅     |   | 15  | CPP Module 02 | 🔒     |   | 26  | Inception                      | 🔒      |
-| 5   | so_long                                    | 🔒    |   | 16  | CPP Module 03 | 🔒     |   | 27  | ft_transcendence               | 🔒      |
-| 6   | [minitalk](../../../42_minitalk)           | ✅     |   | 17  | CPP Module 04 | 🔒     |   |     |                                |         |
-| 7   | pipex                                      | 🔒     |   | 18  | CPP Module 05 | 🔒     |   |     |                                |         |
-| 8   | [push_swap](../../../42_push_swap)         | ✅     |   | 19  | CPP Module 06 | 🔒     |   |     |                                |         |
-| 9   | [minishell](../../../42_minishell)         | ✅     |   | 20  | CPP Module 07 | 🔒     |   |     |                                |         |
-| 10  | [Philosophers](../../../42_philosophers)   | ✅     |   | 21  | CPP Module 08 | 🔒     |   |     |                                |         |
-
+| Circle | No  | Project                                    | Status |     Score     |
+| :----: | :-: | :------------------------------------------ | :----: | :----------: |
+|   0    |  1  | [Libft](../../../42_Libft)                  | ✅     | 125 / 100 % |    
+|   1    |  2  | Born2beroot                                 | ✅     | 110 / 100 % |     
+|   1    |  3  | [ft_printf](../../../42_ft_printf)          | ✅     | 125 / 100 % |   
+|   1    |  4  | [get_next_line](../../../42_get_next_line)  | ✅     | 125 / 100 % |
+|   2    |  5  | [FdF](../../../42_fdf)                      | ✅     | 125 / 100 % |     
+|   2    |  5  | so_long                                     | 🔒     | --- / 100 % |
+|   2    |  5  | fract-ol                                    | 🔒     | --- / 100 % |
+|   2    |  6  | [minitalk](../../../42_minitalk)            | ✅     | 125 / 100 % |    
+|   2    |  6  | pipex                                       | 🔒     | --- / 100 % |   
+|   2    |  7  | [push_swap](../../../42_push_swap)          | ✅     | 125 / 100 % |
+|   3    |  8  | [minishell](../../../42_minishell)          | ✅     | 110 / 100 % |
+|   3    |  9  | [Philosophers](../../../42_philosophers)    | ✅     | 125 / 100 % |
+|   4    | 10  | [cub3d](../../../42_cub3D)                  | ✅     | 110 / 100 % |
+|   4    | 10  | miniRT                                      | 🔒     | --- / 100 % | 
+|   4    | 11  | [NetPractice](../../../42_NetPractice)      | ✅      | 100 / 100 % |
+|   4    | 12  | [CPP Module 00](../../../42_cpp_00)         | ✅     | 100 / 100 % |
+|   4    | 13  | [CPP Module 01](../../../42_cpp_01)         | ✅     | 100 / 100 % |
+|   4    | 14  | CPP Module 02 | 📝     |
+|   4    | 15  | CPP Module 03 | 🔒     |
+|   4    | 16  | CPP Module 04 | 🔒     |
+|   4    | 17  | CPP Module 05 | 🔒     |
+|   4    | 18  | CPP Module 06 | 🔒     |
+|   4    | 19  | CPP Module 07 | 🔒     |
+|   4    | 20  | CPP Module 08 | 🔒     |
+|   5    | 23  | ft_containers                  | 🔒      |
+|   5    | 24  | ft_irc                         | 🔒      |
+|   5    | 25  | webserv                        | 🔒      |
+|   5    | 26  | Inception                      | 🔒      |
+|   6    | 27  | ft_transcendence               | 🔒      |
+ 
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9-kaufmann-14072a239/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/426426595817947137)
