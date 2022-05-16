@@ -17,7 +17,7 @@ At the moment I am studying Software Engineering for my career change in the �
 
 ## 42cursus Progress
 
-| Circle | No  | Project                                    | Status |     Score     |
+| Circle | No. | Project                                     | Status |     Score    |
 | :----: | :-: | :------------------------------------------ | :----: | :----------: |
 |   0    |  1  | [Libft](../../../42_Libft)                  | ✅     | 125 / 100 % |    
 |   1    |  2  | Born2beroot                                 | ✅     | 110 / 100 % |     
@@ -43,11 +43,11 @@ At the moment I am studying Software Engineering for my career change in the �
 |   4    | 18  | CPP Module 06 | 🔒     |
 |   4    | 19  | CPP Module 07 | 🔒     |
 |   4    | 20  | CPP Module 08 | 🔒     |
-|   5    | 23  | ft_containers                  | 🔒      |
-|   5    | 24  | ft_irc                         | 🔒      |
-|   5    | 25  | webserv                        | 🔒      |
-|   5    | 26  | Inception                      | 🔒      |
-|   6    | 27  | ft_transcendence               | 🔒      |
+|   5    | 21  | ft_containers                  | 🔒      |
+|   5    | 22  | ft_irc                         | 🔒      |
+|   5    | 22  | webserv                        | 🔒      |
+|   5    | 23  | Inception                      | 🔒      |
+|   6    | 24  | ft_transcendence               | 🔒      |
  
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9-kaufmann-14072a239/)
