@@ -33,12 +33,12 @@ At the moment I am studying Software Engineering for my career change in the �
 |   3    |  9  | [Philosophers](../../../42_philosophers)    | ✅     | 125 / 100 % |
 |   4    | 10  | [cub3d](../../../42_cub3D)                  | ✅     | 110 / 100 % |
 |   4    | 10  | miniRT                                      | 🔒     | --- / 100 % | 
-|   4    | 11  | [NetPractice](../../../42_NetPractice)      | ✅      | 100 / 100 % |
+|   4    | 11  | [NetPractice](../../../42_NetPractice)      | ✅     | 100 / 100 % |
 |   4    | 12  | [CPP Module 00](../../../42_cpp_00)         | ✅     | 100 / 100 % |
 |   4    | 13  | [CPP Module 01](../../../42_cpp_01)         | ✅     | 100 / 100 % |
 |   4    | 14  | [CPP Module 02](../../../42_cpp_02)         | ✅     | 100 / 100 % |
-|   4    | 15  | CPP Module 03 | 📝     |
-|   4    | 16  | CPP Module 04 | 🔒     |
+|   4    | 15  | [CPP Module 03](../../../42_cpp_03)         | ✅     | 100 / 100 % |
+|   4    | 16  | CPP Module 04 | 📝     |
 |   4    | 17  | CPP Module 05 | 🔒     |
 |   4    | 18  | CPP Module 06 | 🔒     |
 |   4    | 19  | CPP Module 07 | 🔒     |
