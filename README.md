@@ -1,8 +1,15 @@
-[![rkaufman's 42 stats](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 At the moment I am studying Software Engineering for my career change in the 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/) School
 
-## 42 cursus Progress
+
+# 42 cursus
+
+## Status
+[![rkaufman's 42 stats](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
+## Specialisation Projects
+
+## Core Projects
 
 |  Circle | No. | Project                                     | Short Description  | Status |     Score    |
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: |
@@ -37,9 +44,19 @@ At the moment I am studying Software Engineering for my career change in the �
 |--( 0 )--|  1  | [Libft](../../../42_Libft)                  | first library                    | ✅     | 125 / 100 % |  
 
 
-## 42 Piscine Progress
+# 42 Piscine
 
-## STB (State Technical School Berlin) Progress
+## Status
+* passed ✅
+
+## Projects
+
+# STB (State Technician School Berlin)
+
+## Status
+* on hold ⏳
+
+## Projects
 
 
 ## 📱 Connect With Me!
