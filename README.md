@@ -39,7 +39,7 @@ At the moment I am studying Software Engineering for my career change in the ðŸ‘
 
 ## 42 Piscine Progress
 
-## STB Progress
+## STB (State Technical School Berlin) Progress
 
 
 ## ðŸ“± Connect With Me!
