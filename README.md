@@ -27,9 +27,9 @@ At the moment I am studying Software Engineering for my career change in the �
 |  (4)   | 15  | [CPP Module 03](../../../42_cpp_03)         | ✅     | 100 / 100 % |
 |  (4)   | 16  | [CPP Module 04](../../../42_cpp_04)         | ✅     | 100 / 100 % |
 |  (4)   | 17  | [CPP Module 05](../../../42_cpp_05)         | ✅     | 100 / 100 % |
-|  (4)   | 18  | CPP Module 06 | 📝     |
-|  (4)   | 19  | CPP Module 07 | 🔒     |
-|  (4)   | 20  | CPP Module 08 | 🔒     |
+|  (4)   | 18  | [CPP Module 06](../../../42_cpp_06) | 📝     |
+|  (4)   | 19  | [CPP Module 07](../../../42_cpp_07) | 🔒     |
+|  (4)   | 20  | [CPP Module 08](../../../42_cpp_08) | 🔒     |
 |  (5)   | 21  | ft_containers                  | 🔒      |
 |  (5)   | 22  | ft_irc                         | 🔒      |
 |  (5)   | 22  | webserv                        | 🔒      |
