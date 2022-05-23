@@ -4,8 +4,8 @@ At the moment I am studying Software Engineering for my career change in the �
 
 ## 42 cursus Progress
 
-|  Circle | No. | Project                                     | short description  | Status |     Score    |
-| :-----: | :-: | :------------------------------------------ | :----------------: |:----: | :----------: |
+|  Circle | No. | Project                                     | Short Description  | Status |     Score    |
+| :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: |
 |--( 6 )--| 24  | ft_transcendence               |                    | 🔒      |
 |--( 5 )--| 23  | Inception                      |                    | 🔒      |
 |--( 5 )--| 22  | webserv                        |                    | 🔒      |
@@ -35,7 +35,13 @@ At the moment I am studying Software Engineering for my career change in the �
 |--( 1 )--|  3  | [ft_printf](../../../42_ft_printf)          | recoded printf standard function | ✅     | 125 / 100 % |  
 |--( 1 )--|  2  | Born2beroot                                 | virtual machine with VirtualBox  | ✅     | 110 / 100 % | 
 |--( 0 )--|  1  | [Libft](../../../42_Libft)                  | first library                    | ✅     | 125 / 100 % |  
- 
+
+
+## 42 Piscine Progress
+
+## STB Progress
+
+
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9-kaufmann-14072a239/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/426426595817947137)
