@@ -1,19 +1,6 @@
 [![rkaufman's 42 stats](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C/C++
-- 👯 I’m looking to collaborate on gaming education
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-At the moment I am studying Software Engineering for my career change in the 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
+At the moment I am studying Software Engineering for my career change in the 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/) School
 
 ## 42 cursus Progress
 
