@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 At the moment I am studying Software Engineering for my career change in the 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 
-## 42cursus Progress
+## 42 cursus Progress
 
 | Circle | No. | Project                                     | Status |     Score    |
 | :----: | :-: | :------------------------------------------ | :----: | :----------: |
@@ -39,8 +39,8 @@ At the moment I am studying Software Engineering for my career change in the �
 |  (4)   | 14  | [CPP Module 02](../../../42_cpp_02)         | ✅     | 100 / 100 % |
 |  (4)   | 15  | [CPP Module 03](../../../42_cpp_03)         | ✅     | 100 / 100 % |
 |  (4)   | 16  | [CPP Module 04](../../../42_cpp_04)         | ✅     | 100 / 100 % |
-|  (4)   | 17  | CPP Module 05 | 📝     |
-|  (4)   | 18  | CPP Module 06 | 🔒     |
+|  (4)   | 17  | [CPP Module 05](../../../42_cpp_05)         | ✅     | 100 / 100 % |
+|  (4)   | 18  | CPP Module 06 | 📝     |
 |  (4)   | 19  | CPP Module 07 | 🔒     |
 |  (4)   | 20  | CPP Module 08 | 🔒     |
 |  (5)   | 21  | ft_containers                  | 🔒      |
