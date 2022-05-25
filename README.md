@@ -19,8 +19,8 @@ At the moment I am studying Software Engineering for my career change in the �
 |--( 5 )--| 21  | ft_containers                  |                    | 🔒      |
 |--( 5 )--| 22  | ft_irc                         |                    | 🔒      |
 |--( 4 )--| 20  | [CPP Module 08](../../../42_cpp_08)         | containers, iterators, algorithms | 🔒     |
-|--( 4 )--| 19  | [CPP Module 07](../../../42_cpp_07)         | Templates                        | 🔒      |
-|--( 4 )--| 18  | [CPP Module 06](../../../42_cpp_06)         | casts in CPP                     | 📝     |
+|--( 4 )--| 19  | [CPP Module 07](../../../42_cpp_07)         | Templates                        | 📝     |
+|--( 4 )--| 18  | [CPP Module 06](../../../42_cpp_06)         | casts in CPP                     | ✅     | 100 / 100 % |
 |--( 4 )--| 17  | [CPP Module 05](../../../42_cpp_05)         | Try/Catch and Exceptions         | ✅     | 100 / 100 % |
 |--( 4 )--| 16  | [CPP Module 04](../../../42_cpp_04)         | abstract classes and interfaces  | ✅     | 100 / 100 % |
 |--( 4 )--| 15  | [CPP Module 03](../../../42_cpp_03)         | Inheritance                      | ✅     | 100 / 100 % |
