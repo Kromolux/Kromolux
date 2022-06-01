@@ -51,14 +51,16 @@ At the moment I am studying Software Engineering for my career change in the �
 
 ## Projects
 
-| No. | Project                                     |    Short Description   | Status |     Score    |
-| :-: | :------------------------------------------ | :--------------------- | :----: | :----------: |
-|  6  | [C05](../../../42_Piscine_C05)              | char * - tables        | ❌      |  40 / 100 % | 
-|  5  | [C04](../../../42_Piscine_C04)              | atoi                   | ✅      |  85 / 100 % | 
-|  4  | [C03](../../../42_Piscine_C03)              | strcmp - strstr etc.   | ✅      |  50 / 100 % | 
-|  3  | [C02](../../../42_Piscine_C02)              | string manipulation    | ✅      |  75 / 100 % | 
-|  2  | [C01](../../../42_Piscine_C01)              | char * - tables        | ✅      | 100 / 100 % |  
-|  1  | [C00](../../../42_Piscine_C00)              | char * - loops         | ✅      | 100 / 100 % |  
+| No. | Project                                     |      Short Description    | Status |     Score    |
+| :-: | :------------------------------------------ | :------------------------ | :----: | :----------: |
+|  8  | [Rush01](../../../42_Piscine_Rush01)        | recursive algorithm puzzle| ❌      |   0 / 100 % | 
+|  7  | [Rush00](../../../42_Piscine_Rush00)        | print rectange with ascii | ❌      |   0 / 100 % | 
+|  6  | [C05](../../../42_Piscine_C05)              | char * - tables           | ❌      |  40 / 100 % | 
+|  5  | [C04](../../../42_Piscine_C04)              | atoi                      | ✅      |  85 / 100 % | 
+|  4  | [C03](../../../42_Piscine_C03)              | strcmp - strstr etc.      | ✅      |  50 / 100 % | 
+|  3  | [C02](../../../42_Piscine_C02)              | string manipulation       | ✅      |  75 / 100 % | 
+|  2  | [C01](../../../42_Piscine_C01)              | char * - tables           | ✅      | 100 / 100 % |  
+|  1  | [C00](../../../42_Piscine_C00)              | char * - loops            | ✅      | 100 / 100 % |  
 
 # STB (State Technician School Berlin) [School Page](https://www.technikerschule-berlin.de/fachrichtungen/informatik-datentechnik/fachrichtung)
 
