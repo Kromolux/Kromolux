@@ -16,7 +16,7 @@ At the moment I am studying Software Engineering for my career change in the �
 |--( 6 )--| 24  | ft_transcendence               |                    | 🔒      |
 |--( 5 )--| 23  | Inception                      |                    | 🔒      |
 |--( 5 )--| 22  | webserv                        |                    | 🔒      |
-|--( 5 )--| 21  | ft_containers                  |use of multiple containers in C++          | 📝      |
+|--( 5 )--| 21  | [ft_containers](../../../42_ft_containers)  |use of multiple containers in C++ | 📝     |     / 100 % |
 |--( 5 )--| 22  | ft_irc                         |                    | 🔒      |
 |--( 4 )--| 20  | [CPP Module 08](../../../42_cpp_08)         | containers, iterators, algorithms| ✅     | 100 / 100 % |
 |--( 4 )--| 19  | [CPP Module 07](../../../42_cpp_07)         | Templates                        | ✅     | 100 / 100 % |
@@ -54,7 +54,7 @@ At the moment I am studying Software Engineering for my career change in the �
 | No. | Project                                     |      Short Description    | Status |     Score    |
 | :-: | :------------------------------------------ | :------------------------ | :----: | :----------: |
 |  8  | [Rush01](../../../42_Piscine_Rush01)        | recursive algorithm puzzle| ❌      |   0 / 100 % | 
-|  7  | [Rush00](../../../42_Piscine_Rush00)        | print rectange with ascii | ❌      |   0 / 100 % | 
+|  7  | [Rush00](../../../42_Piscine_Rush00)        | print rectangle with ascii| ❌      |   0 / 100 % | 
 |  6  | [C05](../../../42_Piscine_C05)              | char * - tables           | ❌      |  40 / 100 % | 
 |  5  | [C04](../../../42_Piscine_C04)              | atoi                      | ✅      |  85 / 100 % | 
 |  4  | [C03](../../../42_Piscine_C03)              | strcmp - strstr etc.      | ✅      |  50 / 100 % | 
