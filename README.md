@@ -2,7 +2,7 @@
 At the moment I am studying Software Engineering for my career change in the 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/) School
 
 
-# 42 cursus
+# 42 cursus [School Page](https://42wolfsburg.de/)
 
 ## Status
 [![rkaufman's 42 stats](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
@@ -45,6 +45,12 @@ At the moment I am studying Software Engineering for my career change in the �
 
 
 # 42 Piscine
+
+## Status
+* passed ✅
+
+## Projects
+
 | No. | Project                                     |    Short Description   | Status |     Score    |
 | :-: | :------------------------------------------ | :--------------------- | :----: | :----------: |
 |  6  | [C05](../../../42_Piscine_C05)              | char * - tables        | ❌      |  40 / 100 % | 
@@ -54,11 +60,6 @@ At the moment I am studying Software Engineering for my career change in the �
 |  2  | [C01](../../../42_Piscine_C01)              | char * - tables        | ✅      | 100 / 100 % |  
 |  1  | [C00](../../../42_Piscine_C00)              | char * - loops         | ✅      | 100 / 100 % |  
 
-## Status
-* passed ✅
-
-## Projects
-
 # STB (State Technician School Berlin) [School Page](https://www.technikerschule-berlin.de/fachrichtungen/informatik-datentechnik/fachrichtung)
 
 ## Status
@@ -66,6 +67,8 @@ At the moment I am studying Software Engineering for my career change in the �
 
 ## Projects
 
+| No. | Project                                     |    Short Description   | Status |     Score    |
+| :-: | :------------------------------------------ | :--------------------- | :----: | :----------: |
 
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9-kaufmann-14072a239/)
