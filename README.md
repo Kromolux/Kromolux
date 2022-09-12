@@ -14,7 +14,7 @@ At the moment I am studying Software Engineering for my career change in the �
 |  Circle | No. | Project                                     | Short Description  | Status |     Score    |
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: |
 |--( 6 )--| 24  | ft_transcendence               |                    | 🔒      |
-|--( 5 )--| 23  | [Inception](../../../42_Inception)          | creating a docker network        | ✅     | 115 / 100 % |
+|--( 5 )--| 23  | [Inception](../../../42_Inception)          | creating 3 docker container and a network        | ✅     | 115 / 100 % |
 |--( 5 )--| 22  | webserv                        |                    | ❌     | --- / 100 % | 
 |--( 5 )--| 22  | [ft_irc](../../../42_ft_irc)                |                    | 📝      |
 |--( 5 )--| 21  | [ft_containers](../../../42_ft_containers)  | creating containers in C++ | ✅     |  125 / 100 % |
