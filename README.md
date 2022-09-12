@@ -16,8 +16,8 @@ At the moment I am studying Software Engineering for my career change in the �
 |--( 6 )--| 24  | ft_transcendence               |                    | 🔒      |
 |--( 5 )--| 23  | [Inception](../../../42_Inception)          | creating 3 docker container and a network        | ✅     | 115 / 100 % |
 |--( 5 )--| 22  | webserv                        |                    | ❌     | --- / 100 % | 
-|--( 5 )--| 22  | [ft_irc](../../../42_ft_irc)                |                    | 📝      |
-|--( 5 )--| 21  | [ft_containers](../../../42_ft_containers)  | creating containers in C++ | ✅     |  125 / 100 % |
+|--( 5 )--| 22  | [ft_irc](../../../42_ft_irc)                | creating an IRC server in C++    | 📝     |
+|--( 5 )--| 21  | [ft_containers](../../../42_ft_containers)  | creating containers in C++       | ✅     |  125 / 100 % |
 |--( 4 )--| 20  | [CPP Module 08](../../../42_cpp_08)         | containers, iterators, algorithms| ✅     | 100 / 100 % |
 |--( 4 )--| 19  | [CPP Module 07](../../../42_cpp_07)         | Templates                        | ✅     | 100 / 100 % |
 |--( 4 )--| 18  | [CPP Module 06](../../../42_cpp_06)         | casts in CPP                     | ✅     | 100 / 100 % |
