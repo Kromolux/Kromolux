@@ -7,13 +7,13 @@ At the moment I am studying Software Engineering for my career change in the �
 ## Status
 [![rkaufman's 42 stats](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
-## Specialisation Projects
+## Specialisation Projects 📝
 
 ## Core Projects
 
 |  Circle | No. | Project                                     | Short Description  | Status |     Score    |
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: |
-|--( 6 )--| 24  | [ft_transcendence](https://github.com/GQDeltex/ft_transcendence)| Ping Pong game, Chat, ...          | 📝      | --- / 100 % |
+|--( 6 )--| 24  | [ft_transcendence](https://github.com/GQDeltex/ft_transcendence)| Ping Pong game, Chat, ...          | ✅      | 100 / 100 % |
 |--( 5 )--| 23  | [Inception](../../../42_Inception)          | creating 3 docker container in a network    | ✅     | 115 / 100 % |
 |--( 5 )--| 22  | webserv                                     |                                  | ❌     | --- / 100 % | 
 |--( 5 )--| 22  | [ft_irc](../../../42_ft_irc)                | creating an IRC server in C++    | ✅     | 125 / 100 % |
