@@ -15,6 +15,10 @@ I just finished the common core at the <b>Software Engineering School 42 Wolfsbu
 
 # 42 WOLFSBURG: LEARN TO CODE #Next Generation Tech Education - [School Page](https://42wolfsburg.de/)
 
+All C projects had to meet a strict standard - called [NORM](../../../42_norm).
+
+There is also a program thats checks for the norm in the code - called [NORMINETTE](https://github.com/42School/norminette).
+
 ## Status
 * passed ✅ - I finished the common core!
 
