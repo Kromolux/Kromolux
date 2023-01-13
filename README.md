@@ -8,10 +8,10 @@ I just finished the common core at the <b>Software Engineering School 42 Wolfsbu
 
 | No. | Project                                     |    Short Description   | Status | Language |
 | :-: | :------------------------------------------ | :--------------------- | :---- | :------ |
-| 4   | KroChaseLight | Arduino Library for a chaselight | work in progress | C/C++ |
-| 3   | KroChess | Chess AI | In planning | ? |
-| 2   | MyKroTicket | Ticket system | In planning | Typescript |
-| 1   | ReKroCalc | graphic software for calculating electrical formulas | In planning | C/C++ |
+| 4   | [MyKro_ChaseLight](../../../Arduino_ChaseLight) | Arduino Library for a chaselight | work in progress | C/C++ |
+| 3   | MyKro_Chess | Chess AI | In planning | ? |
+| 2   | MyKro_Ticket | Ticket system | In planning | Typescript |
+| 1   | MyKro_ReCalc | graphic software for calculating electrical formulas | In planning | C/C++ |
 
 # 42 WOLFSBURG: LEARN TO CODE #Next Generation Tech Education - [School Page](https://42wolfsburg.de/)
 
