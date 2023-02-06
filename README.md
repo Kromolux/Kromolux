@@ -42,10 +42,10 @@ There is also a program thats checks for the norm in the code - called [NORMINET
 |--( 4 )--| 20  | [CPP Module 08](../../../42_cpp_08)         | containers, iterators, algorithms| ✅     | 100 / 100 % | C++ 98 |
 |--( 4 )--| 19  | [CPP Module 07](../../../42_cpp_07)         | Templates                        | ✅     | 100 / 100 % | C++ 98 |
 |--( 4 )--| 18  | [CPP Module 06](../../../42_cpp_06)         | casts in CPP                     | ✅     | 100 / 100 % | C++ 98 |
-|--( 4 )--| 17  | [CPP Module 05](../../../42_cpp_05)         | Try/Catch and Exceptions         | ✅     | 100 / 100 % | C++ 98 |
+|--( 4 )--| 17  | [CPP Module 05](../../../42_cpp_05)         | Bureaucrat - Try/Catch and Exceptions         | ✅     | 100 / 100 % | C++ 98 |
 |--( 4 )--| 16  | [CPP Module 04](../../../42_cpp_04)         | abstract classes and interfaces  | ✅     | 100 / 100 % | C++ 98 |
-|--( 4 )--| 15  | [CPP Module 03](../../../42_cpp_03)         | Inheritance                      | ✅     | 100 / 100 % | C++ 98 |
-|--( 4 )--| 14  | [CPP Module 02](../../../42_cpp_02)         | Ad-hoc polymorphism, overloads   | ✅     | 100 / 100 % | C++ 98 |
+|--( 4 )--| 15  | [CPP Module 03](../../../42_cpp_03)         | ClapTrap - Inheritance                      | ✅     | 100 / 100 % | C++ 98 |
+|--( 4 )--| 14  | [CPP Module 02](../../../42_cpp_02)         | Fixed-point number - Ad-hoc polymorphism, overloads   | ✅     | 100 / 100 % | C++ 98 |
 |--( 4 )--| 13  | [CPP Module 01](../../../42_cpp_01)         | memory, reference, pointers      | ✅     | 100 / 100 % | C++ 98 |
 |--( 4 )--| 12  | [CPP Module 00](../../../42_cpp_00)         | Creating a Class                 | ✅     | 100 / 100 % | C++ 98 |
 |--( 4 )--| 11  | [NetPractice](../../../42_NetPractice)      | networking - IP-Masks            | ✅     | 100 / 100 % | |
