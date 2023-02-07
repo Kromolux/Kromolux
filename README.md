@@ -29,6 +29,7 @@ There is also a program thats checks for the norm in the code - called [NORMINET
 
 |  Area   | No. | Project                                     | Short Description  | Status |     Score    | Language |
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: | :------: |
+| OS      |  0  | [ft_linux](../../../42_ft_linux)            | my own linux distribution | 📝 | --- / 125 % | C  |
 
 
 ## Common Core 2021 - 2022 Projects
