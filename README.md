@@ -8,6 +8,7 @@ I just finished the common core at the <b>Software Engineering School 42 Wolfsbu
 
 | No. | Project                                     |    Short Description   | Status | Language |
 | :-: | :------------------------------------------ | :--------------------- | :---- | :------ |
+| 5   | MyKro_VisC | Visualisation of C/C++ code | In planning | C/C++ |
 | 4   | [MyKro_ChaseLight](../../../Arduino_ChaseLight) | Arduino Library for a chaselight | work in progress | C/C++ |
 | 3   | MyKro_Chess | Chess AI | In planning | ? |
 | 2   | MyKro_Ticket | Ticket system | In planning | Typescript |
