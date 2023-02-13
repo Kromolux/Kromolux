@@ -1,4 +1,4 @@
-# About
+# [About me](../../../About_me)
 Welcome to my Repository page. Here you can find an overview of my projects and the path I took for my career change from Electrical engineering industry into the IT sector.
 
 In high school I started coding with Turbo Pascal and enjoyed programming with it. But I learned a profession in electrical engineering and tried out a lot of different works. Later I started programming with Visual Basic and VBA via self study. I really enjoyed to write code for office and SAP automation in VBA. But I wanted something different from my daily work. So I quit my job to go back to school to study.
