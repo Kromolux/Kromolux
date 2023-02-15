@@ -9,7 +9,7 @@ I just finished the common core at the <b>Software Engineering School 42 Wolfsbu
 | No. | Project                                     |    Short Description   | Status | Language |
 | :-: | :------------------------------------------ | :--------------------- | :---- | :------ |
 | 5   | MyKro_VisC | Visualisation of C/C++ code | 💡 | C/C++ |
-| 4   | [MyKro_ChaseLight](../../../Arduino_ChaseLight) | Arduino Library for a chaselight | 📝 | C/C++ |
+| 4   | [MyKro_ChaseLight](../../../Arduino_ChaseLight) | Arduino Library for a chaselight | 🚧 📝 🏗️ | C/C++ |
 | 3   | MyKro_Chess | Chess AI | 💡 | ? |
 | 2   | MyKro_Ticket | Ticket system | 💡 | Typescript |
 | 1   | MyKro_ReCalc | graphic software for calculating electrical formulas | 💡 | C/C++ |
@@ -25,11 +25,11 @@ There is also a program thats checks for the norm in the code - called [NORMINET
 
 [![rkaufman's 42 stats](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
-## Specialisation Projects ={ OS - AI - Cybersecurity - Gaming }=📝
+## Specialisation Projects ={ 🐧 OS - 🧠🤖 AI - 🔐 Cybersecurity - 🎮 Gaming }= 📝
 
 |  Area   | No. | Project                                     | Short Description  | Status |     Score    | Language |
 | :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: | :------: |
-| OS      |  0  | [ft_linux](../../../42_ft_linux)            | my own linux distribution | 📝 | --- / 125 % | C  |
+| 🐧  |  0  | [ft_linux](../../../42_ft_linux)            | my own linux distribution | 🚧 📝 🏗️ | --- / 125 % | C  |
 
 
 ## Common Core 2021 - 2022 Projects
