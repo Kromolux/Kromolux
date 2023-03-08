@@ -12,6 +12,7 @@ I just finished the common core at the <b>Software Engineering School 42 Wolfsbu
 
 | No. | Project                                     |    Short Description   | Status | Language |
 | :-: | :------------------------------------------ | :--------------------- | :---- | :------ |
+| 6   | [Design Patterns](../../../Design_Patterns) | learning & understanding OO Design Patterns | 🚧 📝 🏗️ | C/C++ |
 | 5   | MyKro_VisC | Visualisation of C/C++ code | 💡 | C/C++ |
 | 4   | [MyKro_ChaseLight](../../../Arduino_ChaseLight) | Arduino Library for a chaselight | 🚧 📝 🏗️ | C/C++ |
 | 3   | MyKro_Chess | Chess AI | 💡 | ? |
