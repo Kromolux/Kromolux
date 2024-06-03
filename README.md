@@ -1,24 +1,3 @@
-# [About me](../../../About_me)
-Welcome to my Repository page. Here you can find an overview of my projects and the path I took for my career change from Electrical engineering industry into the IT sector.
-
-In high school I started coding with Turbo Pascal and enjoyed programming with it. But I learned a profession in electrical engineering and tried out a lot of different works. Later I started programming with Visual Basic and VBA via self study. I really enjoyed to write code for office and SAP automation in VBA. But I wanted something different from my daily work. So I quit my job to go back to school to study.
-I just finished the common core at the <b>Software Engineering School 42 Wolfsburg</b>. At the moment I am searching for a challenge as an Embedded Software Engineer C/C++. To prepare myself, I just started with daily coding challenges at [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/) and [Codewars](https://www.codewars.com/). As well as tinkering with [Arduino](https://www.arduino.cc/) microcontroller, LED's and sensors. Reading coding books too.
-## Status
-* LeetCode ![LeetCode badge](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKromolux&logo=leetcode&logoColor=yellow)
-* HackerRank ![HackerRank badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-* Codewars ![Codewars badge](https://www.codewars.com/users/Kromolux/badges/micro)
-
-# Private Projects
-
-| No. | Project                                     |    Short Description   | Status | Language |
-| :-: | :------------------------------------------ | :--------------------- | :---- | :------ |
-| 7   | [Design Patterns](../../../Design_Patterns) | learning & understanding OO Design Patterns | 🚧 📝 🏗️ | C/C++ |
-| 6   | [Learn AI](../../../Learn_AI) | learning & understanding AI | 🚧 📝 🏗️ | C/C++ |
-| 5   | MyKro_VisC | Visualisation of C/C++ code | 💡 | C/C++ |
-| 4   | [MyKro_ChaseLight](../../../Arduino_ChaseLight) | Arduino Library for a chaselight | 🚧 📝 🏗️ | C/C++ |
-| 3   | MyKro_Chess | Chess AI | 💡 | ? |
-| 2   | MyKro_Ticket | Ticket system | 💡 | Typescript |
-| 1   | MyKro_ReCalc | graphic software for calculating electrical formulas | 💡 | C/C++ |
 
 # 42 WOLFSBURG: LEARN TO CODE #Next Generation Tech Education - [School Page](https://42wolfsburg.de/)
 
