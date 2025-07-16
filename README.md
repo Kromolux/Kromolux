@@ -3,8 +3,13 @@
 ## Status
 * passed ✅ - I finished the studies and got my degree in computer science.
 
-## School Project
-
+## School Projects
+| Se. | Project                                     |      Short Description    | Status |     Score    | Language |
+| :-: | :------------------------------------------ | :------------------------ | :----: | :----------: | :------: |
+|  8  | [final project](../../../dating_database)  | Database design for an online dating agency  | ✅     |  100 / 100 % | SQL      |
+|  8  | [artist website](../../../AID8_group_project)  | Artist website as semester group task  | ✅     |  100 / 100 % | SQL & PHP      |
+|  6  | [dice game](../../../AID6_homework)            | a dice game with classes  | ✅     |  100 / 100 % | C++      |
+|  5  | [dice game](../../../AID5_homework)            | classes in C++  | ✅     |  100 / 100 % | C++      |
 
 # 42 WOLFSBURG: LEARN TO CODE #Next Generation Tech Education - [School Page](https://42wolfsburg.de/)
 
