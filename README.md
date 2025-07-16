@@ -1,3 +1,10 @@
+# STB (State Technician School Berlin) - [School Page](https://www.technikerschule-berlin.de/fachrichtungen/informatik-datentechnik/fachrichtung)
+
+## Status
+* passed ✅ - I finished the studies and got my degree in computer science.
+
+## School Project
+
 
 # 42 WOLFSBURG: LEARN TO CODE #Next Generation Tech Education - [School Page](https://42wolfsburg.de/)
 
@@ -7,15 +14,6 @@ There is also a program thats checks for the norm in the code - called [NORMINET
 
 ## Status
 * passed ✅ - I finished the common core!
-
-[![rkaufman's 42 stats](https://badge42.vercel.app/api/v2/cl2r6b3yn005909mln989e21s/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-
-## Specialisation Projects ={ 🐧 OS - 🧠🤖 AI - 🔐 Cybersecurity - 🎮 Gaming }= 📝
-
-|  Area   | No. | Project                                     | Short Description  | Status |     Score    | Language |
-| :-----: | :-: | :------------------------------------------ | :----------------- | :----: | :----------: | :------: |
-| 🐧  |  0  | [ft_linux](../../../42_ft_linux)            | my own linux distribution | 🚧 📝 🏗️ | --- / 125 % |   |
-
 
 ## Common Core 2021 - 2022 Projects
 
@@ -70,16 +68,3 @@ There is also a program thats checks for the norm in the code - called [NORMINET
 |  2  | [C01](../../../42_Piscine_C01)              | char * - tables           | ✅      | 100 / 100 % | C        |
 |  1  | [C00](../../../42_Piscine_C00)              | char * - loops            | ✅      | 100 / 100 % | C        |
 
-# STB (State Technician School Berlin) - [School Page](https://www.technikerschule-berlin.de/fachrichtungen/informatik-datentechnik/fachrichtung)
-
-## Status
-* on hold ⏳ - I have already completed the basic studies. Now I'm waiting for the semester when enough students want to study computer science
-(data processing and network technology) to complete my degree.
-
-## School Projects
-
-| No. | Project                                     |    Short Description   | Status |     Score    |
-| :-: | :------------------------------------------ | :--------------------- | :----: | :----------: |
-
-# 📱 Connect With Me!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9-kaufmann-14072a239/)
